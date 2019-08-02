@@ -1,2 +1,3 @@
 # study
-study for data structure
+
+scholar for data structure
